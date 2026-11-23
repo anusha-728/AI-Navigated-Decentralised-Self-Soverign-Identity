@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+pypdf
+torch
+cryptography
+requests
+python-multipart
